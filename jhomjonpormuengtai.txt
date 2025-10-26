@@ -62,6 +62,7 @@ if ($choice -eq "1") {
     }
 
     Write-Host "`nInstallation completed successfully." -ForegroundColor Green
+    exit
 }
 
 # -----------------------------
